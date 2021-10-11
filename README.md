@@ -1,1 +1,1 @@
-# settings-local
+# Personal repository for settings files.
